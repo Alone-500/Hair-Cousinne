@@ -1,0 +1,6 @@
+{
+  "name": "Fadecraft AI - Men's Hair & Facial Stylist",
+  "description": "AI barber consultation that analyzes male facial structure and hair texture to recommend ideal haircuts, barber instructions, and styling products.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
